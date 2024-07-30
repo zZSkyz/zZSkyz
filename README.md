@@ -1,1 +1,4 @@
-- 👋 Sup, I’m zSky
+- 👋 **Sup, I’m zSky**
+document.fgColor='#ffffff'
+    break;
+  case ('vinho'):
